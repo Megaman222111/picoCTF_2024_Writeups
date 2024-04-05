@@ -12,4 +12,4 @@ Simply just use an ssh command to SSH into the server and it will print the flag
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>SSHing into the ser</p></figcaption></figure>
 
-Flag: picoCTF{s3cur3\_c0nn3ct10n\_07a987ac}
+**Flag:** picoCTF{s3cur3\_c0nn3ct10n\_07a987ac}

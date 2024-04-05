@@ -32,4 +32,4 @@ Reading the file, we now have the flag:
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Printing the file with the flag now</p></figcaption></figure>
 
-Flag: picoCTF{s@n1t1z3\_cf09a485}
+**Flag:** picoCTF{s@n1t1z3\_cf09a485}
